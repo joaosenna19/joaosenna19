@@ -1,6 +1,5 @@
 - 👋 Hi, I’m João Senna.
-- 👀 I’m interested in becoming a software engenieering.
-- 🌱 I’m currently learning Phyton.
+- 👀 I’m interested in becoming a software engineer.
 - 📫 How to reach me: joaoradicchi@gmail.com
 
 <!---
