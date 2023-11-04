@@ -1,4 +1,4 @@
-- 👋 Hi, I’m João Senna.
+- 👋 Hi, I’m Tony Radicchi.
 - 👀 I’m interested in becoming a software engineer.
 - 📫 How to reach me: joaoradicchi@gmail.com
 
